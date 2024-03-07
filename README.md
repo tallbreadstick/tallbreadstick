@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @damascussteel21
-- 👀 I’m interested in Minecraft mod and plugin development 
-- 🌱 I’m currently learning Java along with Spigot and Fabric
-- 🤓 I like the haha funni
-- 📫 How to reach me ...
+#damascussteel21
+
+- IT student since 2023
+- I code stuff for fun
 
 <!---
 damascussteel21/damascussteel21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
