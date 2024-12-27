@@ -4,7 +4,8 @@ I forgot to decorate my GitHub. Here are all my medals.
 
 ## 🚀 Tech Stack
 
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+
   ### Languages
   [![Languages](https://skillicons.dev/icons?i=java,javascript,rust)](https://skillicons.dev)
 
@@ -16,6 +17,7 @@ I forgot to decorate my GitHub. Here are all my medals.
 
   ### IDEs
   [![IDEs](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
+  
 </div>
 
 
