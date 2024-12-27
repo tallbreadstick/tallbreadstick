@@ -5,7 +5,7 @@ I forgot to decorate my GitHub. Here are all my medals.
 <h2 align="center">🚀 Tech Stack</h2>
 <p align="center">
   <h3 align="center">Languages</h3>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,rust"/>
   </a>
 </p>
