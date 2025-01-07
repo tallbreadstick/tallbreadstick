@@ -31,7 +31,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">I am a second year IT student who likes coding stuff. Rust is my favorite progarmming language.</p>
+<p align="center">I am a second year IT student who likes coding stuff. Rust is my favorite programming language.</p>
 
 <!---
 damascussteel21/damascussteel21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
