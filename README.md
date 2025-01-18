@@ -6,25 +6,25 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,rust"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,rust,kotlin"/>
   </a>
 </p>
-<h3 align="center">Frontend / Desktop</h3>
+<h3 align="center">Frontend / GUI</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidjs,tauri"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=solidjs,tauri,jetpackcompose"/>
   </a>
 </p>
 <h3 align="center">Game Development</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,bevy"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=godot,bevy"/>
   </a>
 </p>
 <h3 align="center">Code Editors and IDEs</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,androidstudio"/>
   </a>
 </p>
 <br>
