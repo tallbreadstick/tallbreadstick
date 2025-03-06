@@ -38,6 +38,10 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">I am a second year IT student who likes coding stuff. Rust is my favorite programming language.</p>
+<br>
+
+<!--- ![tallbreadstick's GitHub stats](https://github-readme-stats.vercel.app/api?username=tallbreadstick&show_icons=true&theme=vue-dark&bg_color=001A0C&border_radius=9.0&text_color=FFE372) --->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tallbreadstick&layout=donut&theme=vue-dark&bg_color=001A0C&border_radius=9.0&text_color=FFE372)
 
 <!---
 damascussteel21/damascussteel21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
