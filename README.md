@@ -6,13 +6,13 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,rust,kotlin"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,rust,kotlin,python"/>
   </a>
 </p>
 <h3 align="center">Frontend / GUI</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=solidjs,tauri,jetpackcompose"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=solidjs,tauri,jetpackcompose,react"/>
   </a>
 </p>
 <h3 align="center">Game Development</h3>
