@@ -37,7 +37,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">I am a second year IT student who likes coding stuff. Rust is my favorite programming language.</p>
+<p align="center">I am a third year IT student who likes coding stuff. Rust is my favorite programming language.</p>
 <br>
 
 <!--- ![tallbreadstick's GitHub stats](https://github-readme-stats.vercel.app/api?username=tallbreadstick&show_icons=true&theme=vue-dark&bg_color=001A0C&border_radius=9.0&text_color=FFE372) --->
