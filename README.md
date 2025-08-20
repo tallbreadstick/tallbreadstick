@@ -3,34 +3,20 @@
 
 <br>
 <h2 align="center">🚀 Tech Stack</h2>
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages, Frameworks, and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,rust,kotlin,python"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,rust,kotlin,python,postgresql"/>
   </a>
 </p>
-<h3 align="center">Frontend / GUI</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=solidjs,tauri,jetpackcompose,react"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=solidjs,tauri,jetpackcompose,react,tokiors,spring"/>
   </a>
 </p>
-<h3 align="center">Game Development</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=godot,bevy"/>
-  </a>
-</p>
-<h3 align="center">Databases</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql"/>
-  </a>
-</p>
-<h3 align="center">Code Editors and IDEs</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,androidstudio"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=godot,bevy,idea,vscode,androidstudio,mysql"/>
   </a>
 </p>
 <br>
